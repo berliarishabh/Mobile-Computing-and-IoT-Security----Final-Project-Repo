@@ -1,5 +1,4 @@
 # Mobile-Computing-and-IoT-Security----Final-Project-Repo
-# Mobile-Computing-and-IoT-Security----Final-Project
 
 #### Motivation:
 
